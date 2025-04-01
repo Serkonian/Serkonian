@@ -1,6 +1,7 @@
 - Hello, I’m @Serkonian or 'Serk' as a lot of people call me.
 - I’m interested in cyber security.
-- I’m currently learning C#
+- I’m currently trying to improve my C# skills.
+- I'm currently learning Python.
 - I’m not looking to collaborate on anything at the moment.
 
 
